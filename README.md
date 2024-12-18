@@ -210,7 +210,7 @@ Competition URL: https://www.kaggle.com/competitions/hms-harmful-brain-activity-
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 29- Arabic Poem Classification:
+* ## 19- Arabic Poem Classification:
 Task: Develop a classification model that accurately categorize the Arabic poems based on their era.
 
 Type: Natural Language Processing, Classification.
