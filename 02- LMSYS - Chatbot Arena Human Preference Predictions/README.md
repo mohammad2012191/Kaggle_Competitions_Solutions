@@ -13,5 +13,12 @@
 
 - **TTA (Test-Time Augmentation)**:
   - Used augmented inputs by flipping responses.
+ 
+### **Team Members**:
+- [@lihaoweicvch](https://www.kaggle.com/lihaoweicvch)
+- [@roschildrui](https://www.kaggle.com/roschildrui)
+- [@mohammad2012191](https://www.kaggle.com/mohammad2012191)
+- [@cody11null](https://www.kaggle.com/cody11null)
+
 
 🔗 [Full Write-Up](https://www.kaggle.com/competitions/lmsys-chatbot-arena/discussion/528288)
