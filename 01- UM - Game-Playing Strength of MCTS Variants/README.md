@@ -8,6 +8,12 @@
 - **Modeling**:
   - Subtracted AdvantageP1 from targets.
   - MultiRMSE objective in CatBoost.
-- **Outcome**: Achieved strong leaderboard performance.
+
+### **Team Members**:
+- [@mohammad2012191](https://www.kaggle.com/mohammad2012191)
+- [@cody11null](https://www.kaggle.com/cody11null)
+- [@gauravbrills](https://www.kaggle.com/gauravbrills)
+- [@leehann](https://www.kaggle.com/leehann)
+
 
 🔗 [Full Write-Up](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/discussion/549624)
