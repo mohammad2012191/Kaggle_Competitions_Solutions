@@ -132,19 +132,7 @@ Competition URL: https://www.kaggle.com/competitions/learning-agency-lab-automat
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 12- The Learning Agency Lab - PII Data Detection:
-Task: Develop a model that detects personally identifiable information (PII) in student writing.
-
-Rank: 191st out of 2048 teams.
-
-Type: Natural Language Processing, Named Entity Recognition.
-
-Competition URL: https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data
-
-Solution Write-up: Code only (Summary inside the folder's readme).
-
----------------------------------------------------------------------------------------
-* ## 13- Feedback Prize - English Language Learning:
+* ## 12- Feedback Prize - English Language Learning:
 Task: Develop a model to assess the language proficiency of 8th-12th grade English Language Learners (ELLs).
 
 Rank: 223th out of 2654 teams.
@@ -156,7 +144,7 @@ Competition URL: https://www.kaggle.com/competitions/feedback-prize-english-lang
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 14- AI Village Capture the Flag @ DEFCON31:
+* ## 13- AI Village Capture the Flag @ DEFCON31:
 Task: Solve 27 hand-crafted machine learning security challenges to find flags, solve puzzles, and gain hands-on experience with concepts of AI security and safety.
 
 Rank: 166th out of 1345 teams.
@@ -168,7 +156,7 @@ Competition URL: https://www.kaggle.com/competitions/ai-village-capture-the-flag
 Solution Write-up: https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31/discussion/454366
 
 ---------------------------------------------------------------------------------------
-* ## 15- Predict Student Performance from Game Play:
+* ## 14- Predict Student Performance from Game Play:
 Task: Develop a model trained on one of the largest open datasets of game logs to predict student performance during game-based learning in real-time.
 
 Rank: 276th out of 2051 teams.
@@ -180,7 +168,7 @@ Competition URL: https://www.kaggle.com/competitions/predict-student-performance
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 16- Novozymes Enzyme Stability Prediction:
+* ## 15- Novozymes Enzyme Stability Prediction:
 Task: Develop a model that can predict the ranking of protein thermostability (as measured by melting point, tm) after single-point amino acid mutation and deletion.
 
 Rank: 290th out of 2483 teams.
@@ -192,7 +180,7 @@ Competition URL: https://www.kaggle.com/competitions/novozymes-enzyme-stability-
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 17- SenNet + HOA - Hacking the Human Vasculature in 3D:
+* ## 16- SenNet + HOA - Hacking the Human Vasculature in 3D:
 Task: create a model trained on 3D Hierarchical Phase-Contrast Tomography (HiP-CT) data from human kidneys to segment blood vessels.
 
 Type: Computer Vision, Segmentation, 3D Medical Images.
@@ -202,7 +190,7 @@ Competition URL: https://www.kaggle.com/competitions/blood-vessel-segmentation
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 18- AI Mathematical Olympiad - Progress Prize 1:
+* ## 17- AI Mathematical Olympiad - Progress Prize 1:
 Task: Create a model that can solve tricky math problems written in LaTeX format.
 
 Type: Natural Language Processing, Large Language Models (LLMs).
@@ -212,7 +200,7 @@ Competition URL: https://www.kaggle.com/competitions/ai-mathematical-olympiad-pr
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 19- HMS - Harmful Brain Activity Classification:
+* ## 18- HMS - Harmful Brain Activity Classification:
 Task: Develop a model trained on electroencephalography (EEG) signals recorded from critically ill hospital patients to classify seizures and other types of harmful brain activity.
 
 Type: Signal Processing, Waves Data, Computer Vision.
@@ -222,7 +210,7 @@ Competition URL: https://www.kaggle.com/competitions/hms-harmful-brain-activity-
 Solution Write-up: Code only (Summary inside the folder's readme).
 
 ---------------------------------------------------------------------------------------
-* ## 20- Arabic Poem Classification:
+* ## 29- Arabic Poem Classification:
 Task: Develop a classification model that accurately categorize the Arabic poems based on their era.
 
 Type: Natural Language Processing, Classification.
