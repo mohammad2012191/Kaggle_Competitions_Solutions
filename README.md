@@ -1,5 +1,5 @@
 # Kaggle Competitions Solutions
-Here are my/my_team solutions for the Kaggle competitions I've taken part in, showing my approaches and insights.
+Here are my/my_team solutions for the Kaggle competitions I've taken part in, showing my approaches and insights. Details of each solution are inside the folder.
 * ## 1- UM - Game-Playing Strength of MCTS Variants:
 Task: Create a model to predict how well one Monte-Carlo tree search (MCTS) variant will do against another in a given game, based on a list of features describing the game.
 
